@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "391336957677",
+    "project_id": "recognizer-text",
+    "storage_bucket": "recognizer-text.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391336957677:android:ff955976c6a6af81c65ee4",
+        "android_client_info": {
+          "package_name": "Recognizetext.scan.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391336957677-5rf9lea1hr1sqbv23dau799nlq4ie8io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjcy3yr0nAWJqw3nEctGi1mPFVObc79K4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391336957677-5rf9lea1hr1sqbv23dau799nlq4ie8io.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
